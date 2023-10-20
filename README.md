@@ -19,7 +19,7 @@ If you use this code in your work, please consider citing our paper:
 
 
 ## License
-This project is licensed under the MIT License License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
