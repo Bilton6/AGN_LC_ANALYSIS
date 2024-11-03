@@ -11,7 +11,7 @@ This GitHub repository contains the Python implementation of the algorithm prese
 ## Citation
 If you use this code in your work, please consider citing our paper:
 
-- **Title:** [Effects of Noise Level Assumptions and Binning Timescales in Analyzing \textit{Kepler} AGNs]
+- **Title:** [Effects of Noise Level Assumptions and Binning Timescales in Analyzing *Kepler* AGNs]
 - **Authors:** [Snehasish Bhattacharjee, Eran O. Ofek]
 - **Published in:** [TBA]
 - **Year:** [TBA]
